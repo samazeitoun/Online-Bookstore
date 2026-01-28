@@ -1,0 +1,11 @@
+You can access the project by putting all the files in the respository in a folder named "bookstore"
+Open XAMPP
+Start Apache and MySQL
+Open your browser
+Type in the URL : localhost/phpmyadmin
+Create a New Database and name it "bookstore"
+Get the contents in database.sql file and copy them
+Paste in SQL in phpMyAdmin and press Go
+Put the bookstore folder in xampp in htdocs
+Open your browser
+Type in the URL : localhost/bookstore/index.php
